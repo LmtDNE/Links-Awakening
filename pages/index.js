@@ -1,8 +1,8 @@
-import HelloWorld from '../components/HelloWorld';
+import { LinkManager } from '../components/LinkManager';
 
 const Home = () => (
   <div>
-    <HelloWorld />
+    <LinkManager />
   </div>
 );
 
